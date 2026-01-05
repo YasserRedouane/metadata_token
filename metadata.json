@@ -1,8 +1,8 @@
 {
-  "name": "MemeCoin",
-  "symbol": "MEME",
+  "name": "MemeCoin199",
+  "symbol": "MEME199",
   "description": "Dev token for testing",
-  "image": "https://placehold.co/512x512",
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
   "attributes": [],
   "properties": {
     "category": "image",
