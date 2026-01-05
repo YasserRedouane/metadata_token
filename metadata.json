@@ -1,0 +1,16 @@
+{
+  "name": "MemeCoin",
+  "symbol": "MEME",
+  "description": "Dev token for testing",
+  "image": "https://placehold.co/512x512",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "GV1mzLQBCTGZ8zBaUVpFjqTFrDXJwdPbGYqHCpQMqFhA",
+        "share": 100
+      }
+    ]
+  }
+}
